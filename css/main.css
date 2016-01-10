@@ -1,0 +1,78 @@
+body{
+	width: 80%;
+	background: black;
+	margin: auto;
+}
+nav{
+	background: #E65100;
+	height: 1024px;
+	width: 30%;
+	float: left;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.articulo{
+	height: 300px;
+	background: #BBDEFB;
+	width: 95%;
+	margin: auto;
+	margin-bottom: 1em;
+	padding: 1em 1em 0 1em;
+	text-align: center;
+}
+.borde{
+	border-radius: 5px;
+}
+#cabecera{
+	background: yellow;
+	height: 120px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	padding: 2em;
+}
+.footer-article{
+	background: #FFCC80;
+}
+.header-article{
+	height: 70px;
+	background: #EA80FC;
+	margin: auto;
+	padding: 0.4em 0.4em 0 0.4em;
+}
+#main{
+	text-align: center;
+	background: #DCEDC8;
+	width: 69%;
+	height: 1024px;
+	float: right;
+	margin-bottom: 1em;
+}
+#pie{
+	padding: 1em;
+	background: #EA80FC;
+	height: 120px;
+	margin-bottom: 1em;
+	text-align: center;
+}
+.sub-article1{
+		background: #81C784;
+}
+.sub-article2{
+		background: #81C784;
+}
+.sub-div-article{
+	padding: 1em;
+	background: yellow;
+}
+.titulo-article{
+	background: #FFCCBC;
+	margin: 0;
+}
+.clear{
+	clear: both;
+}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
